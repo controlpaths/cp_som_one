@@ -1,8 +1,8 @@
-# CP SOM ONE
+# CP SOM ONE (kICAD -ALTIUM DESIGNER)
 
 The CP SOM ONE is a Open Source System-On-Module that features an FPGA Artix7 from AMD. 
 
-## Images
+## KICAD Images
 
 ![](./img/2023-10-28-designing-a-fpga-som_img6.png) 
 
@@ -11,6 +11,19 @@ The CP SOM ONE is a Open Source System-On-Module that features an FPGA Artix7 fr
 ![](./img/2023-10-28-designing-a-fpga-som_img1.png) 
 
 ![](./img/2023-10-28-designing-a-fpga-som_img15.png) 
+## ALTIUM Images
+
+![](./img/som_Altium_3D_TOP.png) 
+
+![](./img/som_Altium_3D_BOT.png)
+
+![](./img/som_Altium_TOP.png) 
+
+![](./img/som_Altium_L2.png) 
+
+![](./img/som_Altium_L2.png) 
+
+![](./img/som_Altium_BOT.png) 
 
 
 **More information in [controlpaths.com](https://www.controlpaths.com/2023/10/28/designing-a-fpga-som/)**
