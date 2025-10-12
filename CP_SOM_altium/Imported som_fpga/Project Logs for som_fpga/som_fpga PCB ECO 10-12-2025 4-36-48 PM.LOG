@@ -1,0 +1,8 @@
+Change Component Kind : Designator=H3 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=H4 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=H1 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=H2 Old Kind=Standard New Kind=Standard (No BOM)
+Added Member To Class: ClassName=som_fpga Member=Component H1 MountingHole_Pad
+Added Member To Class: ClassName=som_fpga Member=Component H2 MountingHole_Pad
+Added Member To Class: ClassName=som_fpga Member=Component H3 MountingHole_Pad
+Added Member To Class: ClassName=som_fpga Member=Component H4 MountingHole_Pad

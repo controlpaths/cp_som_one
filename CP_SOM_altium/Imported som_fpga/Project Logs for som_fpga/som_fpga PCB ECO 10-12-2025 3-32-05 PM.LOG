@@ -1,0 +1,8 @@
+Added Component: Designator=J1(PinHeader_1x02_P2.54mm_Vertical)
+Add component (AddParameter): Name = "Value"; Value = "Conn_01x02_Pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R8-1
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-U9
+Added Net: Name=NetJ1_2
+Added Member To Class: ClassName=FPGA_bank0_vss Member=Component J1 Conn_01x02_Pin

@@ -1,0 +1,281 @@
+Removed Pin From Net: NetName=+3V3 Pin=J1-1
+Change Component Comment : Designator=U1 Old Comment=XC7A35T-FGG484 New Comment=
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C_0805_2012Metric"; UniqueID = "\ZYGALHHX" ("\ZYGALHHX")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C_0805_2012Metric"; UniqueID = "\UVLRPONR" ("\UVLRPONR")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C105505"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C_0805_2012Metric"; UniqueID = "\CDXOTHDZ" ("\CDXOTHDZ")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C_0805_2012Metric"; UniqueID = "\IPCAXWEZ" ("\IPCAXWEZ")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C105505"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C_0805_2012Metric"; UniqueID = "\CLEIEMZA" ("\CLEIEMZA")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C_0805_2012Metric"; UniqueID = "\VHDIXVJI" ("\VHDIXVJI")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C105505"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "C_0805_2012Metric"; UniqueID = "\YNBAKXNS" ("\YNBAKXNS")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "C_0805_2012Metric"; UniqueID = "\JEHRYKCR" ("\JEHRYKCR")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "C_0805_2012Metric"; UniqueID = "\VSKEMGHT" ("\VSKEMGHT")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "C_0805_2012Metric"; UniqueID = "\MPZCNYNI" ("\MPZCNYNI")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "C_0805_2012Metric"; UniqueID = "\EZBKPNFP" ("\EZBKPNFP")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "C_0805_2012Metric"; UniqueID = "\TVJTEWRW" ("\TVJTEWRW")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "C_0805_2012Metric"; UniqueID = "\LLIQLCXL" ("\LLIQLCXL")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "C_0402_1005Metric"; UniqueID = "\IOSPVUTD" ("\IOSPVUTD")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "C_0402_1005Metric"; UniqueID = "\CHQNIQWL" ("\CHQNIQWL")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "C_0402_1005Metric"; UniqueID = "\HHLCZJSW" ("\HHLCZJSW")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "C_0402_1005Metric"; UniqueID = "\COIHLDZY" ("\COIHLDZY")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "C_0402_1005Metric"; UniqueID = "\VUJWDHFW" ("\VUJWDHFW")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "C_0402_1005Metric"; UniqueID = "\UNGBPWON" ("\UNGBPWON")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "C_0402_1005Metric"; UniqueID = "\PTOBFRFR" ("\PTOBFRFR")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "C_0402_1005Metric"; UniqueID = "\MHMODRNQ" ("\MHMODRNQ")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "C_0402_1005Metric"; UniqueID = "\TQZEXYHP" ("\TQZEXYHP")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "C_1206_3216Metric"; UniqueID = "\LEMDSYEO" ("\LEMDSYEO")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C385907"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "C_1206_3216Metric"; UniqueID = "\NYORDHUJ" ("\NYORDHUJ")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C385907"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "C_0805_2012Metric"; UniqueID = "\FBGJXKOP" ("\FBGJXKOP")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "C_0805_2012Metric"; UniqueID = "\XFVMDXUJ" ("\XFVMDXUJ")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "C_0805_2012Metric"; UniqueID = "\TVQEDPNT" ("\TVQEDPNT")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "C_0805_2012Metric"; UniqueID = "\SYKDKWPK" ("\SYKDKWPK")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "C_0402_1005Metric"; UniqueID = "\VKIJOKKE" ("\VKIJOKKE")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "C_0402_1005Metric"; UniqueID = "\STAHOXCU" ("\STAHOXCU")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C31"); Footprint = "C_0402_1005Metric"; UniqueID = "\LHHILYWU" ("\LHHILYWU")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "C_0402_1005Metric"; UniqueID = "\CJPFCJIL" ("\CJPFCJIL")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33" ("C33"); Footprint = "C_1206_3216Metric"; UniqueID = "\RXJQQRJY" ("\RXJQQRJY")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C268006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34" ("C34"); Footprint = "C_1206_3216Metric"; UniqueID = "\HWQRWUOO" ("\HWQRWUOO")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C268006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35" ("C35"); Footprint = "C_0805_2012Metric"; UniqueID = "\UBTPPNHU" ("\UBTPPNHU")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36" ("C36"); Footprint = "C_0805_2012Metric"; UniqueID = "\FJTYELNB" ("\FJTYELNB")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C37" ("C37"); Footprint = "C_0805_2012Metric"; UniqueID = "\RIROGXVO" ("\RIROGXVO")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C38" ("C38"); Footprint = "C_0805_2012Metric"; UniqueID = "\MXYJMLJK" ("\MXYJMLJK")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39" ("C39"); Footprint = "C_0805_2012Metric"; UniqueID = "\TCFTKVEN" ("\TCFTKVEN")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C162420"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4u7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C40" ("C40"); Footprint = "C_0402_1005Metric"; UniqueID = "\XVFGWUOZ" ("\XVFGWUOZ")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C41" ("C41"); Footprint = "C_0402_1005Metric"; UniqueID = "\MNPBAOXI" ("\MNPBAOXI")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C42" ("C42"); Footprint = "C_0402_1005Metric"; UniqueID = "\VCCEACJL" ("\VCCEACJL")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C43" ("C43"); Footprint = "C_0402_1005Metric"; UniqueID = "\ESHCGUCB" ("\ESHCGUCB")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C44" ("C44"); Footprint = "C_0402_1005Metric"; UniqueID = "\CGHFUTQB" ("\CGHFUTQB")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C45" ("C45"); Footprint = "C_0402_1005Metric"; UniqueID = "\ZDYLUCCP" ("\ZDYLUCCP")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C46" ("C46"); Footprint = "C_0402_1005Metric"; UniqueID = "\KPQYEHNL" ("\KPQYEHNL")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C106255"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "LED_0603_1608Metric"; UniqueID = "\EPWJELHM" ("\EPWJELHM")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C89814"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "DONE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "LED_0603_1608Metric"; UniqueID = "\VVLBZCQB" ("\VVLBZCQB")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C601673"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "LED_0603_1608Metric"; UniqueID = "\EJWZLAOE" ("\EJWZLAOE")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C40378"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "USER_LED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "LED_0603_1608Metric"; UniqueID = "\ZXRVFFGW" ("\ZXRVFFGW")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C40378"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "USER_LED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "LED_0603_1608Metric"; UniqueID = "\WZTCRXSE" ("\WZTCRXSE")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C40378"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "USER_LED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H1" ("H1"); Footprint = "MountingHole_3.2mm_M3_ISO7380_Pad"; UniqueID = "\LWBTQOIQ" ("\LWBTQOIQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "MountingHole_Pad"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H2" ("H2"); Footprint = "MountingHole_3.2mm_M3_ISO7380_Pad"; UniqueID = "\WNVIYLBW" ("\WNVIYLBW")
+Change component parameters (AddParameter): Name = "Value"; Value = "MountingHole_Pad"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H3" ("H3"); Footprint = "MountingHole_3.2mm_M3_ISO7380_Pad"; UniqueID = "\JVGFJSVO" ("\JVGFJSVO")
+Change component parameters (AddParameter): Name = "Value"; Value = "MountingHole_Pad"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H4" ("H4"); Footprint = "MountingHole_3.2mm_M3_ISO7380_Pad"; UniqueID = "\LORNJDOQ" ("\LORNJDOQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "MountingHole_Pad"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "SAMTEC_TFM-120-02-S-D-A"; UniqueID = "\PBBHIRBZ" ("\PBBHIRBZ")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C2881867"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Conn_02x20_Odd_Even"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "SAMTEC_TFM-120-02-S-D-A"; UniqueID = "\VREXAWVG" ("\VREXAWVG")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C2881867"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Conn_02x20_Odd_Even"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4" ("J4"); Footprint = "SAMTEC_TFM-120-02-S-D-A"; UniqueID = "\XCJERQMK" ("\XCJERQMK")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C2881867"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Conn_02x20_Odd_Even"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "IND_LQH3NPN2R2MJRL"; UniqueID = "\YVWVALIE" ("\YVWVALIE")
+Change component parameters: Designator = "L2" ("L2"); Footprint = "IND_LQH3NPN2R2MJRL"; UniqueID = "\UDIYLQOR" ("\UDIYLQOR")
+Change component parameters: Designator = "L3" ("L3"); Footprint = "IND_LQH3NPN2R2MJRL"; UniqueID = "\NXQEGXDJ" ("\NXQEGXDJ")
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R_0402_1005Metric"; UniqueID = "\VLJZKEXT" ("\VLJZKEXT")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C131362"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R_0402_1005Metric"; UniqueID = "\SZJDFIXH" ("\SZJDFIXH")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C409681"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R_0402_1005Metric"; UniqueID = "\XSDPAAWS" ("\XSDPAAWS")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C323683"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "120k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R_0402_1005Metric"; UniqueID = "\JYKTSJRF" ("\JYKTSJRF")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C323663"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "240k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "R_0402_1005Metric"; UniqueID = "\NAZCQXMK" ("\NAZCQXMK")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C409681"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R_0402_1005Metric"; UniqueID = "\CGJGCDJJ" ("\CGJGCDJJ")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C416388"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "R_0402_1005Metric"; UniqueID = "\XDATVYPX" ("\XDATVYPX")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C3017492"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "R_0402_1005Metric"; UniqueID = "\SRJCEXMF" ("\SRJCEXMF")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C3017492"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "R_0402_1005Metric"; UniqueID = "\TIQQFTUG" ("\TIQQFTUG")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C3017492"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "R_0402_1005Metric"; UniqueID = "\WMZMBFDP" ("\WMZMBFDP")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C3017492"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "R_0402_1005Metric"; UniqueID = "\GMAKFLNR" ("\GMAKFLNR")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C881192"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "R_0402_1005Metric"; UniqueID = "\EODQACUF" ("\EODQACUF")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C328298"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "R_0402_1005Metric"; UniqueID = "\UZYJTCCD" ("\UZYJTCCD")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C328298"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "R_0402_1005Metric"; UniqueID = "\PBBHRYWC" ("\PBBHRYWC")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C328298"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "R_0402_1005Metric"; UniqueID = "\TUJRQLMT" ("\TUJRQLMT")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C3017492"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "R_0402_1005Metric"; UniqueID = "\MRLJGTXS" ("\MRLJGTXS")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C3017492"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "R_0402_1005Metric"; UniqueID = "\EXIXETPB" ("\EXIXETPB")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C3017492"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "R_0402_1005Metric"; UniqueID = "\NDVFOQNC" ("\NDVFOQNC")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C471762"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "R_0402_1005Metric"; UniqueID = "\GVEVGFDX" ("\GVEVGFDX")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C328298"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm"; UniqueID = "\XQWDCRFY" ("\XQWDCRFY")
+Change component parameters (AddParameter): Name = "Value"; Value = "XC7A35T-FGG484"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "SOT-23-5"; UniqueID = "\RCJYHCWD" ("\RCJYHCWD")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C87122"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "TLV62565DBVR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SOT-23-5"; UniqueID = "\HGKQAXIH" ("\HGKQAXIH")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C23902"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "TLV62565DBVR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4" ("U4"); Footprint = "SOT-23-5"; UniqueID = "\KWGYOEHJ" ("\KWGYOEHJ")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C23902"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "TLV62565DBVR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5" ("U5"); Footprint = "WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"; UniqueID = "\ASNICXVV" ("\ASNICXVV")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C2802709"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "MX25L12833F"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X1" ("X1"); Footprint = "Crystal_SMD_3225-4Pin_3.2x2.5mm"; UniqueID = "\FQUMDSCB" ("\FQUMDSCB")
+Change component parameters (AddParameter): Name = "JLCPCB"; Value = "C390488"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "SG-8018CE"; VariantName = "[No Variations]"
+Added Component: Designator=U6(logo25mm)
+Add component (AddParameter): Name = "Value"; Value = "cp_logo25mm"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=Net-(D1-A) New Net Name=NetD1_2
+Change Net Name : Old Net Name=Net-(D2-A) New Net Name=NetD2_2
+Change Net Name : Old Net Name=Net-(D3-A) New Net Name=NetD3_2
+Change Net Name : Old Net Name=Net-(D4-A) New Net Name=NetD4_2
+Change Net Name : Old Net Name=Net-(D5-A) New Net Name=NetD5_2
+Change Net Name : Old Net Name=Net-(U1B-IO_L13P_T2_MRCC_16) New Net Name=NetU1_C18
+Change Net Name : Old Net Name=Net-(U1F-CFGBVS_0) New Net Name=NetR7_1
+Change Net Name : Old Net Name=Net-(U1F-DONE_0) New Net Name=NetR11_1
+Change Net Name : Old Net Name=Net-(U1F-INIT_B_0) New Net Name=NetR9_1
+Change Net Name : Old Net Name=Net-(U1F-PROGRAM_B_0) New Net Name=NetR10_1
+Change Net Name : Old Net Name=Net-(U2-FB) New Net Name=NetC44_1
+Change Net Name : Old Net Name=Net-(U2-SW) New Net Name=NetL1_1
+Change Net Name : Old Net Name=Net-(U3-FB) New Net Name=NetC45_1
+Change Net Name : Old Net Name=Net-(U3-SW) New Net Name=NetL2_1
+Change Net Name : Old Net Name=Net-(U4-FB) New Net Name=NetC46_1
+Change Net Name : Old Net Name=Net-(U4-SW) New Net Name=NetL3_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U1-U9
+Added Net: Name=NetR8_1
+Added Class: Name=connectors
+Added Class: Name=FPGA_bank0_vss
+Added Class: Name=FPGA_bank13_14
+Added Class: Name=FPGA_bank15_16
+Added Class: Name=som_fpga
+Added Class: Name=supply
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4

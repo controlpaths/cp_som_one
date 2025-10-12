@@ -1,0 +1,36 @@
+Importer Log Report
+Document: F:\FPGA_Modules\cp_som_one-main\cp_som_one-main\lib\footprint\som1.pretty
+    Section : Analyze Document from - F:\FPGA_Modules\cp_som_one-main\cp_som_one-main\lib\footprint\som1.pretty
+        Warning: Unknown child 'face' of 'font'.
+        Warning: Unknown child render_cache of fp_text.
+        Warning: Unknown child 'face' of 'font'.
+        Warning: Unknown child render_cache of fp_text.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_arc.
+        Warning: Unknown child stroke of fp_arc.
+        Warning: Unknown child stroke of fp_arc.
+        Warning: Unknown child stroke of fp_arc.
+        Warning: Unknown child stroke of fp_circle.
+        Warning: Unknown child stroke of fp_circle.
+        Warning: Unknown child stroke of fp_circle.
+        Warning: Unknown child stroke of fp_circle.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+    EndSection
+    Section : Import Document - F:\FPGA_Modules\cp_som_one-main\cp_som_one-main\CP_SOM_altium2\Imported som_fpga\som1.PcbLib
+        Section : Component REF** importing.
+        EndSection
+    EndSection
