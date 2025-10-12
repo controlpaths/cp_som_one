@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/mnt/pablo_nas/51_controlpaths_devices/12_fpga_som_1/kicad/som_fpga.kicad_sch</source>
-    <date>mar 19 sep 2023 23:02:59</date>
-    <tool>Eeschema 7.0.7-7.0.7~ubuntu22.04.1</tool>
+    <source>D:\MASTER_2021\FPGA_KITS_Transciver\ARTIX7_SOM\cp_som_one\kicad\som_fpga.kicad_sch</source>
+    <date>10/11/2025 7:08:35 AM</date>
+    <tool>Eeschema 7.0.10</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -1068,6 +1068,7 @@
       <property name="JLCPCB" value="C106255"/>
       <property name="Sheetname" value="supply"/>
       <property name="Sheetfile" value="supply.kicad_sch"/>
+      <property name="dnp"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
       <sheetpath names="/supply/" tstamps="/a9f6eb30-e9d3-422d-8e02-953146438dbf/"/>
@@ -1083,6 +1084,7 @@
       <property name="JLCPCB" value="C106255"/>
       <property name="Sheetname" value="supply"/>
       <property name="Sheetfile" value="supply.kicad_sch"/>
+      <property name="dnp"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
       <sheetpath names="/supply/" tstamps="/a9f6eb30-e9d3-422d-8e02-953146438dbf/"/>
@@ -1098,6 +1100,7 @@
       <property name="JLCPCB" value="C106255"/>
       <property name="Sheetname" value="supply"/>
       <property name="Sheetfile" value="supply.kicad_sch"/>
+      <property name="dnp"/>
       <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
       <property name="ki_keywords" value="capacitor cap"/>
       <sheetpath names="/supply/" tstamps="/a9f6eb30-e9d3-422d-8e02-953146438dbf/"/>
@@ -2137,31 +2140,28 @@
   </libparts>
   <libraries>
     <library logical="Connector">
-      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
     </library>
     <library logical="Connector_Generic">
-      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
     </library>
     <library logical="Device">
-      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
     </library>
     <library logical="FPGA_Xilinx_Artix7">
-      <uri>/usr/share/kicad/symbols//FPGA_Xilinx_Artix7.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/FPGA_Xilinx_Artix7.kicad_sym</uri>
     </library>
     <library logical="Mechanical">
-      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
     </library>
     <library logical="Memory_Flash">
-      <uri>/usr/share/kicad/symbols//Memory_Flash.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Memory_Flash.kicad_sym</uri>
     </library>
     <library logical="Oscillator">
-      <uri>/usr/share/kicad/symbols//Oscillator.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Oscillator.kicad_sym</uri>
     </library>
     <library logical="Regulator_Switching">
-      <uri>/usr/share/kicad/symbols//Regulator_Switching.kicad_sym</uri>
-    </library>
-    <library logical="cp_logo">
-      <uri>/mnt/pablo_nas/06_kicad/libraries/symbols/cp_logo.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Regulator_Switching.kicad_sym</uri>
     </library>
   </libraries>
   <nets>

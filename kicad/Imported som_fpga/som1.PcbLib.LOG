@@ -1,0 +1,36 @@
+Importer Log Report
+Document: D:\MASTER_2021\FPGA_KITS_Transciver\ARTIX7_SOM\cp_som_one\lib\footprint\som1.pretty
+    Section : Analyze Document from - D:\MASTER_2021\FPGA_KITS_Transciver\ARTIX7_SOM\cp_som_one\lib\footprint\som1.pretty
+        Warning: Unknown child 'face' of 'font'.
+        Warning: Unknown child render_cache of fp_text.
+        Warning: Unknown child 'face' of 'font'.
+        Warning: Unknown child render_cache of fp_text.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_arc.
+        Warning: Unknown child stroke of fp_arc.
+        Warning: Unknown child stroke of fp_arc.
+        Warning: Unknown child stroke of fp_arc.
+        Warning: Unknown child stroke of fp_circle.
+        Warning: Unknown child stroke of fp_circle.
+        Warning: Unknown child stroke of fp_circle.
+        Warning: Unknown child stroke of fp_circle.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+        Warning: Unknown child stroke of fp_line.
+    EndSection
+    Section : Import Document - D:\MASTER_2021\FPGA_KITS_Transciver\ARTIX7_SOM\cp_som_one\kicad\Imported som_fpga\som1.PcbLib
+        Section : Component REF** importing.
+        EndSection
+    EndSection
